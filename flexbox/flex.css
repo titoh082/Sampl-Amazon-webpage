@@ -73,4 +73,12 @@ position: fixed;
    color: black;
    font-size: 17px;
        }
+h2{
+ font-style: italic;
+ color: rgb(243, 136, 13);
+}
+h3{
+    font-style: italic;
+    color: red;
+}
 
